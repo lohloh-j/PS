@@ -4,4 +4,6 @@ int main(){
     int a = 'hi';
     printf("%d",&a);
     return 0;
+
+    //test code
 }
