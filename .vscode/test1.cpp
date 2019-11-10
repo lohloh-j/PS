@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <iostream>
 int main(){
-    int a = 'hi';
-    printf("%d",&a);
-    return 0;
+
+    int a = 10;
+    printf("%d", &a);
 
     //test code
 }
